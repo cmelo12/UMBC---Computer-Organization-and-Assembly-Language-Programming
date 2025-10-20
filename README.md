@@ -1,2 +1,4 @@
 # UMBC---Computer-Organization-and-Assembly-Language-Programming
-Repository ddedicated for assignments, projects and notes from CMSC 313.
+Repository ddedicated for assignments, projects and notes from CMSC 313.<br><br>
+Institution: UMBC <br>
+Semester: Fall '25
