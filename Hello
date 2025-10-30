@@ -1,1 +1,6 @@
+namespace std
 
+int main {
+  cout<< "Hello Dr Kid. My name is Caua Melo and I'm in your CMSC 313 class at 10am Mo/Wed.";
+  return 0;
+}
